@@ -1,0 +1,46 @@
+= Slayt hazırlarken nelere dikkat etmeliyim?
+
+<<<
+
+Merhaba arkadaşlar;
+
+Uzun zamandır slaytlar hazırlıyorum. Burada edindiğim deneyimleri sizlerle paylaşmak istedim. Aşağıdaki üç maddenin temel olarak size faydalı olacağını düşünüyorum. Keyifli okumalar.
+
+== Hatırlatıcı miktarda metin
+
+Slaytlara bilgi gömmek ve yazıya boğmak slayt hazırlarken yapılan en tehlikeli harekettir. Bu türdeki slaytlar karşınızdaki sunucunun amatörlük düzeyini gösterir.
+
+Sunumlarda metinler olabildiğince az olmalı, sunucuya hatırlatıcı mahiyette olmalıdır.
+
+Çünkü genel itibariyle sunumlardaki uzun metinler dinleyici tarafından okun(a)mazlar. Karşısında sunum metinlerini okuyan bir sunucuyu kimse görmek istemez.
+
+Azami 6 satır metin tercih edebilirsiniz.
+
+== Bol görsel
+
+En başarılı slaytlar, bol resimli ve görselleştirilmiş olanlarıdır. Bazen 400x400 bir grafik resim sayfalarca metine denk düşebilir.
+
+Slaytlarda bol metin amatörlüğü temsil ederken, bol görsel profesyonelliği temsil eder.
+
+Görsel olduğu gibi videolar da sunumlara gömülebilir. Fakat burada çok uzun videolardan uzak durmak faydalı olabilir. Max 3-5 dakikalık videolar sunum başarımınızı artırabilir.
+
+Ben şahsen çok fazla video kullanmıyorum. Ama aklıma gelirse koymaktan çekinmem.
+
+== ~ Slayt sayısı x dakika
+
+Yine başka bir amatörlük delaleti ile karşı karşıyayız :). Sunum hazırlayanlar için en can sıkıcı süreç sunumun ne kadar süreceğine dair tahminleme yapmaktır. Bu tahminleme doğru yapılamadığında sunucuyu zor anlar bekleyebilir.
+
+Burada benim edindiğim genel pratik `slayt sayısı x dakika` türündendir.
+
+Örneğin 50 dakika sunumunuz olduğunu varsayalım. 10 dk soru cevap kısmını çıkarırsak sizin 40 dakikayı doldurmanız gerekecektir. 40 dakika için formülümüze göre 40-45 sayfa slayt genel olarak sizi kurtaracaktır.
+
+[NOTE]
+====
+Dil hatalarını gidermek veya yazıyı geliştirmek adına _**http://kodcu.com/2015/03/pull-request-nedir-nasil-yapilir/[pull request]**_ yapabilirsiniz.
+
+**Repo**: https://github.com/rahmanusta/en-iyi-sunum
+====
+
+Tekrar görüşmek dileğiyle..
+
+
